@@ -173,7 +173,7 @@ div #page3-continer h3{
 }
 
 /* responsive */
-@media screen and (max-width:600px){
+@media screen and (max-width:900px){
     #main-continer{
         margin-top:2.5em;
         margin-left:5%;
